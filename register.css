@@ -1,0 +1,30 @@
+body {
+    /* 全体背景色 */
+    background-color: #002FA7;
+    /* 幅 */
+    width: 800px;
+    /* ログイン場所を真ん中にする */
+    margin: 200px auto;
+}
+h1{
+    color: #C8C7C5;
+    text-align: center;
+}
+form{
+    /* ログイン場所の色 */
+    background-color: #C8C7C5;
+    /* 幅 */
+    width: 800px;
+    /* 高さ */
+    height: 400px;
+}
+div{
+    text-align: center;
+    margin-bottom: 30px;
+}
+.UserName{
+    padding-top: 100px;
+}
+button{
+    margin-left: 380px;
+}

@@ -1,0 +1,34 @@
+body {
+    /* 全体背景色 */
+    background-color: #3E3F4C;
+    /* 幅 */
+    width: 800px;
+    /* ログイン場所を真ん中にする */
+    margin: 200px auto;
+}
+form{
+    /* ログイン場所の色 */
+    background-color: #BE98AA;
+    /* 幅 */
+    width: 800px;
+    /* 高さ */
+    height: 400px;
+}
+.login{
+    padding: 10px 0 50px 0;
+    text-align: center;
+}
+.name{
+    text-align: center;
+    margin-bottom: 30px;
+
+}
+.password{
+    text-align: center;
+    margin-bottom: 50px;
+
+}
+.btn{
+    text-align: center;
+
+}
